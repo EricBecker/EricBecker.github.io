@@ -10,9 +10,9 @@ For the impatient, here's how to get a boilerplate Jekyll site up and running.
 
 {% highlight bash %}
 ~ $ gem install jekyll
-~ $ jekyll new my-awesome-site
-~ $ cd my-awesome-site
-~/my-awesome-site $ jekyll serve
+~ $ jekyll new myblog
+~ $ cd myblog
+~/myblog $ jekyll serve
 # => Now browse to http://localhost:4000
 {% endhighlight %}
 
